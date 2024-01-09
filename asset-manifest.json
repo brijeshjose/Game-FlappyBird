@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/https//brijeshjose.github.io/Game-FlappyBird/static/css/main.a414241e.css",
-    "main.js": "/https//brijeshjose.github.io/Game-FlappyBird/static/js/main.9b1fe317.js",
-    "index.html": "/https//brijeshjose.github.io/Game-FlappyBird/index.html",
-    "main.a414241e.css.map": "/https//brijeshjose.github.io/Game-FlappyBird/static/css/main.a414241e.css.map",
-    "main.9b1fe317.js.map": "/https//brijeshjose.github.io/Game-FlappyBird/static/js/main.9b1fe317.js.map"
+    "main.css": "/https//brijeshjose/Game-FlappyBird/static/css/main.a414241e.css",
+    "main.js": "/https//brijeshjose/Game-FlappyBird/static/js/main.0e793e35.js",
+    "index.html": "/https//brijeshjose/Game-FlappyBird/index.html",
+    "main.a414241e.css.map": "/https//brijeshjose/Game-FlappyBird/static/css/main.a414241e.css.map",
+    "main.0e793e35.js.map": "/https//brijeshjose/Game-FlappyBird/static/js/main.0e793e35.js.map"
   },
   "entrypoints": [
     "static/css/main.a414241e.css",
-    "static/js/main.9b1fe317.js"
+    "static/js/main.0e793e35.js"
   ]
 }
