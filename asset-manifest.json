@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/https//brijeshjose.github.io/Game-FlappyBird/static/css/main.a414241e.css",
+    "main.js": "/https//brijeshjose.github.io/Game-FlappyBird/static/js/main.f29e3056.js",
+    "index.html": "/https//brijeshjose.github.io/Game-FlappyBird/index.html",
+    "main.a414241e.css.map": "/https//brijeshjose.github.io/Game-FlappyBird/static/css/main.a414241e.css.map",
+    "main.f29e3056.js.map": "/https//brijeshjose.github.io/Game-FlappyBird/static/js/main.f29e3056.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a414241e.css",
+    "static/js/main.f29e3056.js"
+  ]
+}
